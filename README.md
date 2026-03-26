@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Favour Lawrence 
 - 💻 A DevOps engineer and backend developer, passionate about building scalable and efficient solutions.
 - 🚀 Always learning new technologies and working on impactful projects.
--  📝 I enjoy sharing my knowledge— 📖 Check out my blogs on [Dev.to](https://dev.to/favxlaw) [Medium.com](medium.com/@favxlaw)!
+-  📝 I enjoy sharing my knowledge— 📖 Check out my blogs on [Dev.to](https://dev.to/favxlaw) and [medium.com](medium.com/@favxlaw)
 -  🎯 Current focus: Enhancing CI/CD pipelines, containerization with Docker, and cloud deployments.
 
 
