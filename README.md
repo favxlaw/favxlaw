@@ -1,4 +1,4 @@
-### 🌟 About Me ![](https://komarev.com/ghpvc/?username=favxlaw&label=Profile+views&style=for-the-badge&color=green)  
+### 🌟 About Me !  
 
 - 👋 Hi, I’m Favour Lawrence 
 - 💻 A DevOps engineer and backend developer, passionate about building scalable and efficient solutions.
