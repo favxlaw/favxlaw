@@ -17,18 +17,18 @@
   <br>
 </div>
 
-<!-- Terminal Animation -->
+<!-- Email / Terminal Animation -->
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <br>
-        <a href="https://favxlaw-garden.pages.dev/">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=480&lines=%24+cd+%7E%2Ffavxlaw%2Fgarden" alt="Visit my garden" />
+        <a href="mailto:favxlaw@gmail.com">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=520&lines=%24+mail+favxlaw%40gmail.com" alt="Email Favour" />
         </a>
         <br><br>
-        <strong>A little corner of the internet where I document what I learn.</strong><br>
-        <sub>Notes. Experiments. Things worth sharing.</sub>
+        <strong>Have something interesting in mind? Let's talk.</strong><br>
+        <sub>Ideas. Collaborations. Engineering conversations.</sub>
         <br><br>
       </td>
     </tr>
@@ -74,6 +74,9 @@
 <div align="center">
   <a href="https://favxlaw-garden.pages.dev/">
     <img src="https://img.shields.io/badge/Digital_Garden-4C1D95?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Garden" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/favxlaw/">
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://dev.to/favxlaw">
     <img src="https://img.shields.io/badge/Dev.to-4C1D95?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
